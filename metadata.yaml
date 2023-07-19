@@ -1,0 +1,30 @@
+_repo: Metsien-mies-b-Kolminaytoksinen-naytelma_71005
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Korhonen, Veikko
+    alias: Korhonen, Veikko Matias
+    birthdate: 1888
+    deathdate: 1942
+    gutenberg_agent_id: '56035'
+    url: http://www.gutenberg.org/2009/agents/56035
+    wikipedia: https://fi.wikipedia.org/wiki/Veikko_Korhonen
+description: ''
+gutenberg_issued: '2023-06-21'
+identifiers:
+  gutenberg: '71005'
+language: fi
+pgterms:marc905: 20230511124809korhonen
+pgterms:marc906: '1914'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aFinland :$bTampereen Työväen Kirjapaino, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish drama -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Metsien mies : $b Kolminäytöksinen näytelmä'
+url: http://www.gutenberg.org/ebooks/71005
